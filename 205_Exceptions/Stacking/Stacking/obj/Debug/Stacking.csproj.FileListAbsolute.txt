@@ -1,0 +1,6 @@
+D:\Development\Repository\University\200_SecondSemester\205_Exceptions\Stacking\Stacking\bin\Debug\Stacking.exe.config
+D:\Development\Repository\University\200_SecondSemester\205_Exceptions\Stacking\Stacking\bin\Debug\Stacking.exe
+D:\Development\Repository\University\200_SecondSemester\205_Exceptions\Stacking\Stacking\bin\Debug\Stacking.pdb
+D:\Development\Repository\University\200_SecondSemester\205_Exceptions\Stacking\Stacking\obj\Debug\Stacking.csprojResolveAssemblyReference.cache
+D:\Development\Repository\University\200_SecondSemester\205_Exceptions\Stacking\Stacking\obj\Debug\Stacking.exe
+D:\Development\Repository\University\200_SecondSemester\205_Exceptions\Stacking\Stacking\obj\Debug\Stacking.pdb

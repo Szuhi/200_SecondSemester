@@ -1,0 +1,6 @@
+D:\Development\Repository\University\200_SecondSemester\206_Recursion\SmallExample\SmallExample\bin\Debug\SmallExample.exe.config
+D:\Development\Repository\University\200_SecondSemester\206_Recursion\SmallExample\SmallExample\bin\Debug\SmallExample.exe
+D:\Development\Repository\University\200_SecondSemester\206_Recursion\SmallExample\SmallExample\bin\Debug\SmallExample.pdb
+D:\Development\Repository\University\200_SecondSemester\206_Recursion\SmallExample\SmallExample\obj\Debug\SmallExample.csprojResolveAssemblyReference.cache
+D:\Development\Repository\University\200_SecondSemester\206_Recursion\SmallExample\SmallExample\obj\Debug\SmallExample.exe
+D:\Development\Repository\University\200_SecondSemester\206_Recursion\SmallExample\SmallExample\obj\Debug\SmallExample.pdb

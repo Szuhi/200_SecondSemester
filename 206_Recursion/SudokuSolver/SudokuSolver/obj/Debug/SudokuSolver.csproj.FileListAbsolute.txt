@@ -1,0 +1,6 @@
+D:\Development\Repository\University\200_SecondSemester\206_Recursion\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe.config
+D:\Development\Repository\University\200_SecondSemester\206_Recursion\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe
+D:\Development\Repository\University\200_SecondSemester\206_Recursion\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.pdb
+D:\Development\Repository\University\200_SecondSemester\206_Recursion\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csprojResolveAssemblyReference.cache
+D:\Development\Repository\University\200_SecondSemester\206_Recursion\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.exe
+D:\Development\Repository\University\200_SecondSemester\206_Recursion\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.pdb

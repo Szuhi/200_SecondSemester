@@ -1,0 +1,6 @@
+D:\Development\Repository\University\SecondSemester\100_Classes\Animals\Animals\bin\Debug\Animals.exe.config
+D:\Development\Repository\University\SecondSemester\100_Classes\Animals\Animals\bin\Debug\Animals.exe
+D:\Development\Repository\University\SecondSemester\100_Classes\Animals\Animals\bin\Debug\Animals.pdb
+D:\Development\Repository\University\SecondSemester\100_Classes\Animals\Animals\obj\Debug\Animals.csprojResolveAssemblyReference.cache
+D:\Development\Repository\University\SecondSemester\100_Classes\Animals\Animals\obj\Debug\Animals.exe
+D:\Development\Repository\University\SecondSemester\100_Classes\Animals\Animals\obj\Debug\Animals.pdb

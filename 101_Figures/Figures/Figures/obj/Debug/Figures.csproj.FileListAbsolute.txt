@@ -1,0 +1,6 @@
+D:\Development\Repository\University\SecondSemester\101_Figures\Figures\Figures\bin\Debug\Figures.exe.config
+D:\Development\Repository\University\SecondSemester\101_Figures\Figures\Figures\bin\Debug\Figures.exe
+D:\Development\Repository\University\SecondSemester\101_Figures\Figures\Figures\bin\Debug\Figures.pdb
+D:\Development\Repository\University\SecondSemester\101_Figures\Figures\Figures\obj\Debug\Figures.csprojResolveAssemblyReference.cache
+D:\Development\Repository\University\SecondSemester\101_Figures\Figures\Figures\obj\Debug\Figures.exe
+D:\Development\Repository\University\SecondSemester\101_Figures\Figures\Figures\obj\Debug\Figures.pdb

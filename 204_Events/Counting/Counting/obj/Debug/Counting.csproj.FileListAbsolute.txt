@@ -1,0 +1,6 @@
+D:\Development\Repository\University\200_SecondSemester\204_Events\Counting\Counting\bin\Debug\Counting.exe.config
+D:\Development\Repository\University\200_SecondSemester\204_Events\Counting\Counting\bin\Debug\Counting.exe
+D:\Development\Repository\University\200_SecondSemester\204_Events\Counting\Counting\bin\Debug\Counting.pdb
+D:\Development\Repository\University\200_SecondSemester\204_Events\Counting\Counting\obj\Debug\Counting.csprojResolveAssemblyReference.cache
+D:\Development\Repository\University\200_SecondSemester\204_Events\Counting\Counting\obj\Debug\Counting.exe
+D:\Development\Repository\University\200_SecondSemester\204_Events\Counting\Counting\obj\Debug\Counting.pdb

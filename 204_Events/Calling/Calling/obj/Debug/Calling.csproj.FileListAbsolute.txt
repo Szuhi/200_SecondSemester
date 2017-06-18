@@ -1,0 +1,6 @@
+D:\Development\Repository\University\200_SecondSemester\204_Events\Calling\Calling\bin\Debug\Calling.exe.config
+D:\Development\Repository\University\200_SecondSemester\204_Events\Calling\Calling\bin\Debug\Calling.exe
+D:\Development\Repository\University\200_SecondSemester\204_Events\Calling\Calling\bin\Debug\Calling.pdb
+D:\Development\Repository\University\200_SecondSemester\204_Events\Calling\Calling\obj\Debug\Calling.csprojResolveAssemblyReference.cache
+D:\Development\Repository\University\200_SecondSemester\204_Events\Calling\Calling\obj\Debug\Calling.exe
+D:\Development\Repository\University\200_SecondSemester\204_Events\Calling\Calling\obj\Debug\Calling.pdb
